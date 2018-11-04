@@ -286,3 +286,10 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Copyrighted Resources
+/Bonzify/Resources/*
+# Those are okay
+!/Bonzify/Resources/README.md
+!/Bonzify/Resources/KillAgent.bat
+!/Bonzify/Resources/TakeOwn.bat
